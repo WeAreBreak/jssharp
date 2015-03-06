@@ -1,0 +1,35 @@
+{
+  "name": "jssharp",
+  "version": "0.8.0",
+  "description": "The JS# js-compiler module adds support for some ECMAScript 7/8 features and several C# inspired grammar for JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ajuhos@github.com/WeAreBreak/jssharp.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "csharp",
+    "c#",
+    "extension",
+    "compiler",
+    "arrow",
+    "default",
+    "parameter",
+    "type",
+    "module"
+  ],
+  "author": "We Are Break <ajuhos@we-are-break.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeAreBreak/jssharp/issues"
+  },
+  "homepage": "https://github.com/WeAreBreak/jssharp",
+  "dependencies": {
+    "js-parser-utils": "^1.0.0"
+  }
+}
